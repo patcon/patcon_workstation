@@ -1,6 +1,8 @@
 cookbook_paths:
 - ./cookbooks/
+- ./cookbooks-override/
 recipes:
 - dmg
 - mac_os_x
+- patcon_workstation::virtualbox
 node_attributes:
