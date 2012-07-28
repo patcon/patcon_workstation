@@ -8,7 +8,7 @@ cookbook 'homebrew'
 cookbook 'homesick'
 cookbook 'mac_os_x'
 cookbook 'pivotal_workstation',
-  :git => 'https://github.com/pivotal/pivotal_workstation.git',
-  :ref => 'master'
+  :git => 'https://github.com/patcon/pivotal_workstation.git',
+  :ref => 'dmg-cookbook'
 cookbook 'platform_packages'
 cookbook 'zip_app'

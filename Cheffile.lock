@@ -9,11 +9,12 @@ SITE
     zip_app (0.2.2)
 
 GIT
-  remote: https://github.com/pivotal/pivotal_workstation.git
-  ref: master
-  sha: ed0d95b3755167747de466541a194516feab2a82
+  remote: https://github.com/patcon/pivotal_workstation.git
+  ref: dmg-cookbook
+  sha: b2066efd7bf33c8778cd521cb0e12c6bf586cc6e
   specs:
     pivotal_workstation (1.0.0)
+      dmg (>= 0.0.0)
 
 DEPENDENCIES
   dmg (>= 0)
