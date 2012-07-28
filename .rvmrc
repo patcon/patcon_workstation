@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+rvm use 1.9.3@workstation --create

@@ -1,0 +1,6 @@
+cookbook_paths:
+- ./cookbooks/
+recipes:
+- dmg
+- mac_os_x
+node_attributes:

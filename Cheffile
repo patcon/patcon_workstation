@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+#^syntax detection
+
+site 'http://community.opscode.com/api/v1'
+
+cookbook 'dmg'
+cookbook 'homebrew'
+cookbook 'homesick'
+cookbook 'mac_os_x'
+cookbook 'pivotal_workstation',
+  :git => 'https://github.com/pivotal/pivotal_workstation.git',
+  :ref => 'master'
+cookbook 'platform_packages'
+cookbook 'zip_app'
