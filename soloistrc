@@ -4,5 +4,14 @@ cookbook_paths:
 recipes:
 - dmg
 - mac_os_x
+- zip_app
+- patcon_workstation::appcleaner
+- patcon_workstation::caffeine
+- patcon_workstation::calibre
+- patcon_workstation::clipmenu
+- patcon_workstation::coconutbattery
+- patcon_workstation::colloquy
+- patcon_workstation::flux
+- patcon_workstation::skype
 - patcon_workstation::virtualbox
 node_attributes:

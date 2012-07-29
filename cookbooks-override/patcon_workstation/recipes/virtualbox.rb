@@ -3,7 +3,7 @@ dmg_package "VirtualBox" do
   checksum "b17465ee88135f9dbb3f4e6eba1bee408f72f2dafebd872c51344cbb474bffde"
   action :install
   type "mpkg"
-  package_id "org.virtualbox.pkg.virtualbox"
+  #package_id "org.virtualbox.pkg.virtualbox"
 end
 
 extpack_version = "4.1.18"
