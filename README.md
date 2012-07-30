@@ -29,6 +29,31 @@ To Do
 -----
 
   - Investigate how [Apple Orchard CI][apple-orchard] can help later.
+  - Fix Kaspersky install process (Google Drive URL with attr).
+  - Add recipes for the following:
+    * Balsamiq Mockups
+    * Boxee 
+    * Google Cloud Printer
+    * Emacs 
+    * Evernote
+    * Filezilla 
+    * Github
+    * GrandPerspective
+    * Grooveshark
+    * GSDesktopHelper
+    * iReadFast
+    * Kindle
+    * LibreOffice
+    * nvALT
+    * Quick Search Box
+    * RightZoom
+    * Sequel Pro
+    * Skitch
+    * Total Terminal
+    * TweetDesk
+    * UnRarX
+    * Wireshark
+    * Yammer
 
 <!-- Links -->
    [apple-orchard]:       https://github.com/pivotalexperimental/apple_orchard#readme
