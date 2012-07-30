@@ -13,6 +13,11 @@ recipes:
 - patcon_workstation::coconutbattery
 - patcon_workstation::colloquy
 - patcon_workstation::flux
+- patcon_workstation::googledrive
+- patcon_workstation::kaspersky
 - patcon_workstation::skype
+- patcon_workstation::textwrangler
 - patcon_workstation::virtualbox
+- pivotal_workstation::chrome
+- pivotal_workstation::firefox
 node_attributes:
