@@ -2,6 +2,7 @@ cookbook_paths:
 - ./cookbooks/
 - ./cookbooks-override/
 recipes:
+- build-essential
 - dmg
 - mac_os_x
 - zip_app
