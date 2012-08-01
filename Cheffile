@@ -3,7 +3,6 @@
 
 site 'http://community.opscode.com/api/v1'
 
-cookbook 'build-essential'
 cookbook 'dmg'
 cookbook 'homebrew'
 cookbook 'homesick'

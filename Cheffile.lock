@@ -1,7 +1,6 @@
 SITE
   remote: http://community.opscode.com/api/v1
   specs:
-    build-essential (1.1.0)
     dmg (1.0.0)
     homebrew (1.2.0)
     homesick (0.2.2)
@@ -18,7 +17,6 @@ GIT
       dmg (>= 0.0.0)
 
 DEPENDENCIES
-  build-essential (>= 0)
   dmg (>= 0)
   homebrew (>= 0)
   homesick (>= 0)

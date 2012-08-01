@@ -1,8 +1,7 @@
 cookbook_paths:
-- ./cookbooks/
-- ./cookbooks-override/
+- cookbooks/
+- cookbooks-override/
 recipes:
-- build-essential
 - dmg
 - mac_os_x
 - zip_app
@@ -18,6 +17,11 @@ recipes:
 - patcon_workstation::skype
 - patcon_workstation::textwrangler
 - patcon_workstation::virtualbox
+# Homebrew recipes
+- pivotal_workstation::homebrew
+- patcon_workstation::homebrew_packages
 - pivotal_workstation::chrome
 - pivotal_workstation::firefox
 node_attributes:
+  kaspersky:
+    installer_url: GOOGLE_DRIVE_URL
