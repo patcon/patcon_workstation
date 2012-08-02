@@ -15,6 +15,7 @@ recipes:
 - patcon_workstation::googledrive
 - patcon_workstation::ireadfast
 - patcon_workstation::kaspersky
+- patcon_workstation::skitch
 - patcon_workstation::skype
 - patcon_workstation::textwrangler
 - patcon_workstation::virtualbox

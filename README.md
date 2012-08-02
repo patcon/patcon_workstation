@@ -54,14 +54,12 @@ To Do
     * GrandPerspective
     * Grooveshark
     * GSDesktopHelper
-    * iReadFast
     * Kindle
     * LibreOffice
     * nvALT
     * Quick Search Box
     * RightZoom
     * Sequel Pro
-    * Skitch
     * Total Terminal
     * TweetDesk
     * UnRarX
