@@ -21,9 +21,13 @@ recipes:
 - patcon_workstation::virtualbox
 # Homebrew recipes
 - pivotal_workstation::homebrew
-- patcon_workstation::homebrew_packages
 - pivotal_workstation::chrome
 - pivotal_workstation::firefox
+- pivotal_workstation::git
+- pivotal_workstation::tmux
+- pivotal_workstation::zsh
+- patcon_workstation::janus
+- patcon_workstation::homebrew_packages
 - patcon_workstation::homesick_castles
 node_attributes:
   kaspersky:

@@ -6,14 +6,10 @@
 %w{
   colordiff
   curl
-  git
   git-extras
   git-flow
   hub
-  macvim
-  tmux
   tree
-  zsh
 }.each { |pkg| brew_install pkg }
 
 # execute "port -f activate libiconv"
