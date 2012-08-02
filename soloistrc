@@ -21,9 +21,11 @@ recipes:
 - patcon_workstation::virtualbox
 # Homebrew recipes
 - pivotal_workstation::homebrew
+- pivotal_workstation::unix_essentials
 - pivotal_workstation::chrome
 - pivotal_workstation::firefox
 - pivotal_workstation::git
+- pivotal_workstation::github_for_mac
 - pivotal_workstation::tmux
 - pivotal_workstation::zsh
 - patcon_workstation::janus

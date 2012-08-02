@@ -50,7 +50,6 @@ To Do
     * Emacs 
     * Evernote
     * Filezilla 
-    * Github
     * GrandPerspective
     * Grooveshark
     * GSDesktopHelper

@@ -9,7 +9,6 @@
   git-extras
   git-flow
   hub
-  tree
 }.each { |pkg| brew_install pkg }
 
 # execute "port -f activate libiconv"
