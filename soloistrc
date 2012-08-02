@@ -22,6 +22,7 @@ recipes:
 - patcon_workstation::homebrew_packages
 - pivotal_workstation::chrome
 - pivotal_workstation::firefox
+- patcon_workstation::homesick_castles
 node_attributes:
   kaspersky:
     installer_url: GOOGLE_DRIVE_URL
