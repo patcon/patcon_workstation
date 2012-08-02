@@ -15,8 +15,8 @@ recipes:
 - patcon_workstation::googledrive
 - patcon_workstation::ireadfast
 - patcon_workstation::kaspersky
+- patcon_workstation::sequelpro
 - patcon_workstation::skitch
-- patcon_workstation::skype
 - patcon_workstation::textwrangler
 - patcon_workstation::virtualbox
 # Homebrew recipes
@@ -26,6 +26,7 @@ recipes:
 - pivotal_workstation::firefox
 - pivotal_workstation::git
 - pivotal_workstation::github_for_mac
+- pivotal_workstation::skype
 - pivotal_workstation::tmux
 - pivotal_workstation::zsh
 - patcon_workstation::janus

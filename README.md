@@ -58,7 +58,6 @@ To Do
     * nvALT
     * Quick Search Box
     * RightZoom
-    * Sequel Pro
     * Total Terminal
     * TweetDesk
     * UnRarX
