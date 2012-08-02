@@ -13,6 +13,7 @@ recipes:
 - patcon_workstation::colloquy
 - patcon_workstation::flux
 - patcon_workstation::googledrive
+- patcon_workstation::ireadfast
 - patcon_workstation::kaspersky
 - patcon_workstation::skype
 - patcon_workstation::textwrangler
