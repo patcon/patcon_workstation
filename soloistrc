@@ -23,6 +23,7 @@ recipes:
 - pivotal_workstation::homebrew
 - pivotal_workstation::unix_essentials
 - pivotal_workstation::chrome
+- pivotal_workstation::dropbox
 - pivotal_workstation::firefox
 - pivotal_workstation::git
 - pivotal_workstation::github_for_mac
