@@ -16,24 +16,24 @@ recipes:
 - patcon_workstation::grandperspective
 - patcon_workstation::ireadfast
 - patcon_workstation::kaspersky
+- patcon_workstation::kindle
 - patcon_workstation::sequelpro
 - patcon_workstation::skitch
 - patcon_workstation::textwrangler
 - patcon_workstation::virtualbox
 # Homebrew recipes
-- pivotal_workstation::homebrew
 - pivotal_workstation::unix_essentials
 - pivotal_workstation::chrome
 - pivotal_workstation::dropbox
 - pivotal_workstation::firefox
-- pivotal_workstation::git
 - pivotal_workstation::github_for_mac
 - pivotal_workstation::skype
 - pivotal_workstation::tmux
 - pivotal_workstation::zsh
-- patcon_workstation::janus
 - patcon_workstation::homebrew_packages
 - patcon_workstation::homesick_castles
+- patcon_workstation::legit
+- patcon_workstation::janus
 node_attributes:
   kaspersky:
     installer_url: GOOGLE_DRIVE_URL

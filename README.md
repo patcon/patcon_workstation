@@ -52,7 +52,6 @@ To Do
     * Filezilla 
     * Grooveshark
     * GSDesktopHelper
-    * Kindle
     * LibreOffice
     * nvALT
     * Quick Search Box
