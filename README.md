@@ -52,7 +52,6 @@ To Do
     * Grooveshark
     * GSDesktopHelper
     * LibreOffice
-    * nvALT
     * RightZoom
     * Total Terminal
     * TweetDesk

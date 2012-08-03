@@ -19,6 +19,7 @@ recipes:
 - patcon_workstation::quicksearchbox
 - patcon_workstation::kaspersky
 - patcon_workstation::kindle
+- patcon_workstation::nvALT
 - patcon_workstation::sequelpro
 - patcon_workstation::skitch
 - patcon_workstation::textwrangler
