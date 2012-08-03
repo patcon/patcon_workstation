@@ -54,7 +54,6 @@ To Do
     * GSDesktopHelper
     * LibreOffice
     * nvALT
-    * Quick Search Box
     * RightZoom
     * Total Terminal
     * TweetDesk

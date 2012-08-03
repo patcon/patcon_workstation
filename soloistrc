@@ -15,6 +15,7 @@ recipes:
 - patcon_workstation::googledrive
 - patcon_workstation::grandperspective
 - patcon_workstation::ireadfast
+- patcon_workstation::quicksearchbox
 - patcon_workstation::kaspersky
 - patcon_workstation::kindle
 - patcon_workstation::sequelpro
