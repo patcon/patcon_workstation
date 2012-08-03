@@ -14,5 +14,5 @@ end
 execute "Start #{package} automatically" do
   user WS_USER
   command "defaults write loginwindow AutoLaunchedApplicationDictionary -array-add '{ \"Path\" = \"/Applications/#{package}.app\"; \"Hide\" = 1; }'"
-  not_if "defaults find #{package}.app | grep -E '^Found.*loginwindow'"
+  only_if "defaults find #{package}.app | grep -E '^Found.*loginwindow'"
 end
