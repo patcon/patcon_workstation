@@ -48,7 +48,6 @@ To Do
     * Boxee 
     * Google Cloud Printer
     * Emacs 
-    * Evernote
     * Filezilla 
     * Grooveshark
     * GSDesktopHelper
